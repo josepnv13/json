@@ -1,0 +1,103 @@
+<equipo>
+  <nombre_equipo>Golden Street Warriors</nombre_equipo>
+  <color_equipacion>Amarillo y Azul</color_equipacion>
+  <nombre_estadio>Chase Center</nombre_estadio>
+  <nombre_entrenador>Steve Kerr</nombre_entrenador>
+  <plantilla_historica>false</plantilla_historica>
+  <pagina_web>https://www.nba.com/warriors/</pagina_web>
+  <jugadores>
+    <jugador>
+      <nombre>Stephen Curry</nombre>
+      <dorsal>30</dorsal>
+      <posicion>Base</posicion>
+      <imagen>https://www.nba.com/stats/media/img/players/780x450/201939.png</imagen>
+      <puntos_por_partido>29.5</puntos_por_partido>
+    </jugador>
+    <jugador>
+      <nombre>Jordan Poole</nombre>
+      <dorsal>3</dorsal>
+      <posicion>Base</posicion>
+      <imagen>https://www.nba.com/stats/media/img/players/780x450/1629673.png</imagen>
+      <puntos_por_partido>11.4</puntos_por_partido>
+    </jugador>
+    <jugador>
+      <nombre>Chris Chiozza</nombre>
+      <dorsal>12</dorsal>
+      <posicion>Base</posicion>
+      <imagen>https://www.nba.com/stats/media/img/players/780x450/1629185.png</imagen>
+      <puntos_por_partido>1.9</puntos_por_partido>
+    </jugador>
+    <jugador>
+      <nombre>Klay Thompson</nombre>
+      <dorsal>11</dorsal>
+      <posicion>Alero</posicion>
+      <imagen>https://www.nba.com/stats/media/img/players/780x450/202691.png</imagen>
+      <puntos_por_partido>10.7</puntos_por_partido>
+    </jugador>
+    <jugador>
+      <nombre>Gary Trent Jr.</nombre>
+      <dorsal>33</dorsal>
+      <posicion>Alero</posicion>
+      <imagen>https://www.nba.com/stats/media/img/players/780x450/1629018.png</imagen>
+      <puntos_por_partido>16.3</puntos_por_partido>
+    </jugador>
+    <jugador>
+      <nombre>Otto Porter Jr.</nombre>
+      <dorsal>30</dorsal>
+      <posicion>Alero</posicion>
+      <imagen>https://www.nba.com/stats/media/img/players/780x450/203490.png</imagen>
+      <puntos_por_partido>7.9</puntos_por_partido>
+    </jugador>
+    <jugador>
+      <nombre>Andrew Wiggins</nombre>
+      <dorsal>22</dorsal>
+      <posicion>Alero</posicion>
+      <imagen>https://www.nba.com/stats/media/img/players/780x450/203952.png</imagen>
+      <puntos_por_partido>18.5</puntos_por_partido>
+    </jugador>
+    <jugadores>
+    <jugador>
+        <nombre>Jonathan Kuminga</nombre>
+        <dorsal>00</dorsal>
+        <posicion>Alero</posicion>
+        <imagen>https://www.nba.com/stats/media/img/players/780x450/1630543.png</imagen>
+        <puntos_por_partido>6.7</puntos_por_partido>
+    </jugador>
+    <jugador>
+        <nombre>Draymond Green</nombre>
+        <dorsal>23</dorsal>
+        <posicion>Pívot</posicion>
+        <imagen>https://www.nba.com/stats/media/img/players/780x450/203110.png</imagen>
+        <puntos_por_partido>6.7</puntos_por_partido>
+    </jugador>
+    <jugador>
+        <nombre>Alen Smailagic</nombre>
+        <dorsal>6</dorsal>
+        <posicion>Pívot</posicion>
+        <imagen>https://www.nba.com/stats/media/img/players/780x450/1629346.png</imagen>
+        <puntos_por_partido>7.5</puntos_por_partido>
+    </jugador>
+    <jugador>
+        <nombre>James Wiseman</nombre>
+        <dorsal>33</dorsal>
+        <posicion>Pívot</posicion>
+        <imagen>https://www.nba.com/stats/media/img/players/780x450/1630173.png</imagen>
+        <puntos_por_partido>5.8</puntos_por_partido>
+    </jugador>
+    <jugador>
+        <nombre>Kevon Looney</nombre>
+        <dorsal>5</dorsal>
+        <posicion>Pívot</posicion>
+        <imagen>https://www.nba.com/stats/media/img/players/780x450/1626172.png</imagen>
+        <puntos_por_partido>2.8</puntos_por_partido>
+    </jugador>
+    <jugador>
+        <nombre>Nemanja Bjelica</nombre>
+        <dorsal>88</dorsal>
+        <posicion>Pívot</posicion>
+        <imagen>https://www.nba.com/stats/media/img/players/780x450/202357.png</imagen>
+        <puntos_por_partido>4.4</puntos_por_partido>
+    </jugador>
+</jugadores>
+
+</equipo>
