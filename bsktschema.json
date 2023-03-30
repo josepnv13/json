@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "nombre_equipo": {
+      "type": "string"
+    },
+    "color_equipacion": {
+      "type": "string"
+    },
+    "nombre_estadio": {
+      "type": "string"
+    },
+    "nombre_entrenador": {
+      "type": "string"
+    },
+    "plantilla_historica": {
+      "type": "boolean"
+    },
+    "pagina_web": {
+      "type": "string"
+    },
+    "jugadores": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "nombre": {
+            "type": "string"
+          },
+          "dorsal": {
+            "type": "integer"
+          },
+          "posicion": {
+            "type": "string"
+          },
+          "imagen": {
+            "type": "string"
+          },
+          "puntos_por_partido": {
+            "type": "number"
+          }
+        },
+        "required": ["nombre", "dorsal", "posicion", "imagen", "puntos_por_partido"]
+      }
+    }
+  },
+  "required": ["nombre_equipo", "color_equipacion", "nombre_estadio", "nombre_entrenador", "plantilla_historica", "pagina_web", "jugadores"]
+}
