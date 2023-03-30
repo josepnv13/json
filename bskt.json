@@ -6,96 +6,96 @@
     "plantilla_historica": false,
     "pagina_web": "https://www.nba.com/warriors/",
     "jugadores": [
-    {
-    "nombre": "Stephen Curry",
-    "dorsal": 30,
-    "posicion": "Base",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/201939.png",
-    "puntos_por_partido": 29.5
-    },
-    {
-    "nombre": "Jordan Poole",
-    "dorsal": 3,
-    "posicion": "Base",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629673.png",
-    "puntos_por_partido": 11.4
-    },
-    {
-    "nombre": "Chris Chiozza",
-    "dorsal": 12,
-    "posicion": "Base",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629185.png",
-    "puntos_por_partido": 1.9
-    },
-    {
-    "nombre": "Klay Thompson",
-    "dorsal": 11,
-    "posicion": "Alero",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/202691.png",
-    "puntos_por_partido": 10.7
-    },
-    {
-    "nombre": "Gary Trent Jr.",
-    "dorsal": 33,
-    "posicion": "Alero",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629018.png",
-    "puntos_por_partido": 16.3
-    },
-    {
-    "nombre": "Otto Porter Jr.",
-    "dorsal": 30,
-    "posicion": "Alero",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/203490.png",
-    "puntos_por_partido": 7.9
-    },
-    {
-    "nombre": "Andrew Wiggins",
-    "dorsal": 22,
-    "posicion": "Alero",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/203952.png",
-    "puntos_por_partido": 18.5
-    },
-    {
-    "nombre": "Jonathan Kuminga",
-    "dorsal": 00,
-    "posicion": "Alero",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/1630543.png",
-    "puntos_por_partido": 6.7
-    },
-    {
-    "nombre": "Draymond Green",
-    "dorsal": 23,
-    "posicion": "Pívot",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/203110.png",
-    "puntos_por_partido": 6.7
-    },
-    {
-    "nombre": "Alen Smailagic",
-    "dorsal": 6,
-    "posicion": "Pívot",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629346.png",
-    "puntos_por_partido": 7.5
-    },
-    {
-    "nombre": "James Wiseman",
-    "dorsal": 33,
-    "posicion": "Pívot",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/1630173.png",
-    "puntos_por_partido": 5.8
-    },
-    {
-    "nombre": "Kevon Looney",
-    "dorsal": 5,
-    "posicion": "Pívot",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/1626172.png",
-    "puntos_por_partido": 2.8
-    },
-    {
-    "nombre": "Nemanja Bjelica",
-    "dorsal": 88,
-    "posicion": "Pívot",
-    "imagen": "https://www.nba.com/stats/media/img/players/780x450/202357.png",
-    "puntos_por_partido": 4.4
-    }
+        {
+            "nombre": "Stephen Curry",
+            "dorsal": 30,
+            "posicion": "Base",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/201939.png",
+            "puntos_por_partido": 29.5
+        },
+        {
+            "nombre": "Jordan Poole",
+            "dorsal": 3,
+            "posicion": "Base",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629673.png",
+            "puntos_por_partido": 11.4
+        },
+        {
+            "nombre": "Chris Chiozza",
+            "dorsal": 12,
+            "posicion": "Base",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629185.png",
+            "puntos_por_partido": 1.9
+        },
+        {
+            "nombre": "Klay Thompson",
+            "dorsal": 11,
+            "posicion": "Alero",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/202691.png",
+            "puntos_por_partido": 10.7
+        },
+        {
+            "nombre": "Gary Trent Jr.",
+            "dorsal": 33,
+            "posicion": "Alero",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629018.png",
+            "puntos_por_partido": 16.3
+        },
+        {
+            "nombre": "Otto Porter Jr.",
+            "dorsal": 30,
+            "posicion": "Alero",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/203490.png",
+            "puntos_por_partido": 7.9
+        },
+        {
+            "nombre": "Andrew Wiggins",
+            "dorsal": 22,
+            "posicion": "Alero",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/203952.png",
+            "puntos_por_partido": 18.5
+        },
+        {
+            "nombre": "Jonathan Kuminga",
+            "dorsal": 00,
+            "posicion": "Alero",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1630543.png",
+            "puntos_por_partido": 6.7
+        },
+        {
+            "nombre": "Draymond Green",
+            "dorsal": 23,
+            "posicion": "Pívot",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/203110.png",
+            "puntos_por_partido": 6.7
+        },
+        {
+            "nombre": "Alen Smailagic",
+            "dorsal": 6,
+            "posicion": "Pívot",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629346.png",
+            "puntos_por_partido": 7.5
+        },
+        {
+            "nombre": "James Wiseman",
+            "dorsal": 33,
+            "posicion": "Pívot",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1630173.png",
+            "puntos_por_partido": 5.8
+        },
+        {
+            "nombre": "Kevon Looney",
+            "dorsal": 5,
+            "posicion": "Pívot",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1626172.png",
+            "puntos_por_partido": 2.8
+        },
+        {
+            "nombre": "Nemanja Bjelica",
+            "dorsal": 88,
+            "posicion": "Pívot",
+            "imagen": "https://www.nba.com/stats/media/img/players/780x450/202357.png",
+            "puntos_por_partido": 4.4
+        }
     ]
-    }
+}
