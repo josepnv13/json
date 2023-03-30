@@ -1,0 +1,16 @@
+<!DOCTYPE equipo [
+    <!ELEMENT equipo (nombre_equipo, color_equipacion, nombre_estadio, nombre_entrenador, plantilla_historica, pagina_web, jugadores)>
+    <!ELEMENT nombre_equipo (#PCDATA)>
+    <!ELEMENT color_equipacion (#PCDATA)>
+    <!ELEMENT nombre_estadio (#PCDATA)>
+    <!ELEMENT nombre_entrenador (#PCDATA)>
+    <!ELEMENT plantilla_historica (#PCDATA)>
+    <!ELEMENT pagina_web (#PCDATA)>
+    <!ELEMENT jugadores (jugador+)>
+    <!ELEMENT jugador (nombre, dorsal, posicion, imagen, puntos_por_partido)>
+    <!ELEMENT nombre (#PCDATA)>
+    <!ELEMENT dorsal (#PCDATA)>
+    <!ELEMENT posicion (#PCDATA)>
+    <!ELEMENT imagen (#PCDATA)>
+    <!ELEMENT puntos_por_partido (#PCDATA)>
+]>
