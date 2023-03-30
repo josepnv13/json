@@ -105,15 +105,29 @@
                     <th>Puntos por partido</th>
                 </tr>
             </thead>
-        <script id="#"  type="text/x-jsrender">
-            {{for libro}}
+        <script id="bsqt"  type="text/x-jsrender">
+            {{for jugador}}
                 <tbody>
                     <tr>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
-                        <td></td>
+                        <td>
+                            {{:nombre}}
+                        </td>
+                        <td>
+                            {{:dorsal}}
+
+                        </td>
+                        <td>
+                            {{:posicion}}
+
+                        </td>
+                        <td>
+                            {{:imagen}}
+
+                        </td>
+                        <td>
+                            {{:puntos_por_partido}}
+
+                        </td>
                     </tr>
                 
                 </tbody>
@@ -124,9 +138,7 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jsrender/1.0.12/jsrender.min.js"></script>
         <script>
             $.getJSON("bskt.json",(data) => {
-                    var html = $("#").render(data);
-
-                   $("#app").html(html);
+                   $("#app").html($.templates("#bsqt").render(data));
                 });
                 
            
