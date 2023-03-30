@@ -3,7 +3,7 @@
     "color_equipacion": "Amarillo y Azul",
     "nombre_estadio": "Chase Center",
     "nombre_entrenador": "Steve Kerr",
-    "plantilla_historica": false,
+    "plantilla_historica": "false",
     "pagina_web": "https://www.nba.com/warriors/",
     "jugadores": [
         {
@@ -57,7 +57,7 @@
         },
         {
             "nombre": "Jonathan Kuminga",
-            "dorsal": 00,
+            "dorsal": 0,
             "posicion": "Alero",
             "imagen": "https://www.nba.com/stats/media/img/players/780x450/1630543.png",
             "puntos_por_partido": 6.7
