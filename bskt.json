@@ -24,77 +24,77 @@
             "nombre": "Chris Chiozza",
             "dorsal": 12,
             "posicion": "Base",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629185.png",
+            "imagen": "https://media.gettyimages.com/id/1350573526/fr/photo/chris-chiozza-of-the-golden-state-warriors-dribbles-the-ball-against-the-oklahoma-city.jpg?s=1024x1024&w=gi&k=20&c=76Ut07khGsRXiqJ7K2rjNF_7vYMZ9H9gMjgfG8XaXkQ=",
             "puntos_por_partido": 1.9
         },
         {
             "nombre": "Klay Thompson",
             "dorsal": 11,
             "posicion": "Alero",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/202691.png",
+            "imagen": "https://media.gettyimages.com/id/1397142425/es/foto/klay-thompson-of-the-golden-state-warriors-celebrates-his-three-point-shot-against-the-memphis.jpg?s=612x612&w=gi&k=20&c=K2XtYatylX5ZWfmKilhfZDmYgpyGaIa189xCMSRF7Q0=",
             "puntos_por_partido": 10.7
         },
         {
             "nombre": "Gary Trent Jr.",
             "dorsal": 33,
             "posicion": "Alero",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629018.png",
+            "imagen": "https://images2.minutemediacdn.com/image/fetch/c_fill,g_auto,f_auto,h_2133,w_3200/http%3A%2F%2Fhoopshabit.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2020%2F08%2F1203598727.jpeg",
             "puntos_por_partido": 16.3
         },
         {
             "nombre": "Otto Porter Jr.",
             "dorsal": 30,
             "posicion": "Alero",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/203490.png",
+            "imagen": "https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fraptorsrapture.com%2Fwp-content%2Fuploads%2Fgetty-images%2F2022%2F07%2F1394941514.jpeg",
             "puntos_por_partido": 7.9
         },
         {
             "nombre": "Andrew Wiggins",
             "dorsal": 22,
             "posicion": "Alero",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/203952.png",
+            "imagen": "https://cdn.vox-cdn.com/thumbor/bqswRjFvtsTRA03-VtCcy7O559Q=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23582422/usa_today_18332636.jpg",
             "puntos_por_partido": 18.5
         },
         {
             "nombre": "Jonathan Kuminga",
             "dorsal": 0,
             "posicion": "Alero",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1630543.png",
+            "imagen": "https://library.sportingnews.com/styles/crop_style_16_9_mobile_2x/s3/2022-05/jonathan-kuminga.jpeg?itok=-gRe6955",
             "puntos_por_partido": 6.7
         },
         {
             "nombre": "Draymond Green",
             "dorsal": 23,
             "posicion": "Pívot",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/203110.png",
+            "imagen": "https://media.gettyimages.com/id/1399490120/es/foto/draymond-green-of-the-golden-state-warriors-reacts-after-a-basket-and-a-foul-call-during-the.jpg?s=612x612&w=gi&k=20&c=oJcS18d_yGk20tzcdLU_lfoX_stMFzxu3xyIs7ihT9s=",
             "puntos_por_partido": 6.7
         },
         {
             "nombre": "Alen Smailagic",
             "dorsal": 6,
             "posicion": "Pívot",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1629346.png",
+            "imagen": "https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/archive/assets_article/bayarea/2019/12/24/smailagicap.jpg",
             "puntos_por_partido": 7.5
         },
         {
             "nombre": "James Wiseman",
             "dorsal": 33,
             "posicion": "Pívot",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1630173.png",
+            "imagen": "https://www.nbcsports.com/sites/rsnunited/files/styles/article_hero_image/public/article/hero/james-wiseman-warriors-2-usa.jpg",
             "puntos_por_partido": 5.8
         },
         {
             "nombre": "Kevon Looney",
             "dorsal": 5,
             "posicion": "Pívot",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/1626172.png",
+            "imagen": "data:image/jpeg;base64,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",
             "puntos_por_partido": 2.8
         },
         {
             "nombre": "Nemanja Bjelica",
             "dorsal": 88,
             "posicion": "Pívot",
-            "imagen": "https://www.nba.com/stats/media/img/players/780x450/202357.png",
+            "imagen": "https://media.gettyimages.com/id/1241357313/es/foto/nemanja-bjelica-of-the-golden-state-warriors-poses-for-a-portrait-with-the-larry-obrien-trophy.jpg?s=612x612&w=gi&k=20&c=yYxJK5Uwok_vut3U0U4d0SE5VKOEmBp6q-BPx2zOY7A=",
             "puntos_por_partido": 4.4
         }
     ]
