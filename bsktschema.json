@@ -5,40 +5,30 @@
     "nombre_equipo": {
       "type": "string"
     },
-    "color_equipacion": {
-      "type": "string"
+    "color_equipacion": {"type": "string"
     },
-    "nombre_estadio": {
-      "type": "string"
+    "nombre_estadio": {"type": "string"
     },
-    "nombre_entrenador": {
-      "type": "string"
+    "nombre_entrenador": {"type": "string"
     },
-    "plantilla_historica": {
-      "type": "boolean"
+    "plantilla_historica": {"type": "boolean"
     },
-    "pagina_web": {
-      "type": "string"
+    "pagina_web": {"type": "string"
     },
     "jugadores": {
       "type": "array",
       "items": {
         "type": "object",
         "properties": {
-          "nombre": {
-            "type": "string"
+          "nombre": {"type": "string"
           },
-          "dorsal": {
-            "type": "integer"
+          "dorsal": {"type": "integer"
           },
-          "posicion": {
-            "type": "string"
+          "posicion": {"type": "string"
           },
-          "imagen": {
-            "type": "string"
+          "imagen": {"type": "string"
           },
-          "puntos_por_partido": {
-            "type": "number"
+          "puntos_por_partido": {"type": "number"
           }
         },
         "required": ["nombre", "dorsal", "posicion", "imagen", "puntos_por_partido"]
