@@ -108,22 +108,7 @@
             <tbody id="app">
 
               
-            </tbody>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+            </tbody> 
         <script id="bsqt"  type="text/x-jsrender">
             {{for jugadores}}
                     <tr>
@@ -154,9 +139,9 @@
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jsrender/1.0.12/jsrender.min.js"></script>
         <script>
-          console.log("MERDA");
+          
             $.getJSON("https://raw.githubusercontent.com/josepnv13/json/master/bskt.json", data => {
-              console.log("LA MARE QUEW");
+            
               $("#app").html($.templates("#bsqt").render(data));
             });
         </script>
